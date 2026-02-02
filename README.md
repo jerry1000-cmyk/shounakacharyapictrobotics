@@ -18,4 +18,5 @@ also it contains a face detection and face recognizer code
 # Electronics
 
 ## Kicad
+In the Kicad Folder you will find the completed Schematic and PCB design
 
