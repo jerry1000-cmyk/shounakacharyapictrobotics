@@ -3,11 +3,11 @@
 # Coding (Primary Domain)
 
 ## 1)Linux commands
-In the Linux Folder you will find a pdf with screenshots of all the linux commands and their executions 
+In the Linux Folder you will find a pdf with screenshots of all the linux commands and their executions .
 I learned the basic linux commands from video series provided and executed some of them
 
 ## 2) Github
-In the Github folder you will find the pdf with git commands and their explanations and handwritten notes
+In the Github folder you will find the pdf with git commands and their explanations and handwritten notes .
 I watched multiple git tutorials to write my notes
 
 ## 3)Arduino 
