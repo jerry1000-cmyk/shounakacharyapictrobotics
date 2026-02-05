@@ -23,10 +23,10 @@ also it contains a face detection and face recognizer code
 ## Kicad
 In the Kicad Folder you will find the completed Schematic and PCB design 
 Parts used :
-ESP32 - Microcontroller for controlling speed and direction
-L293D - Motor Driver to take input from ESP and turn the motors
-L7805 - Convert Any voltage into 5V to keep electrical components safe
-AN51117-3.3 - Convert 5V to 3.3V for the ESP
-Screw Terminals - 3 Screw Terminals 2 for motors and 1 for battery to screw the wires of the components in
+- ESP32 - Microcontroller for controlling speed and direction
+- L293D - Motor Driver to take input from ESP and turn the motors
+- L7805 - Convert Any voltage(upto 12V) into 5V to keep electrical components safe
+- AMS51117-3.3 - Convert 5V to 3.3V for the ESP
+- Screw Terminals - 3 Screw Terminals 2 for motors and 1 for battery to screw the wires of the components in
 
 
