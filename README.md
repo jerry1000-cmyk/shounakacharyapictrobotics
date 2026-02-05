@@ -1,5 +1,7 @@
 # Robotics Tasks
 
+#Coding (Primary Domain)
+
 ## 1)Linux commands
 In the Linux Folder you will find a pdf with screenshots of all the linux commands and their executions 
 
@@ -15,7 +17,8 @@ In the OpenCV folder you will find multiple .py files containing scripts of thin
 also it contains a face detection and face recognizer code
 
 
-# Electronics
+# Electronics (Secondary Domain)
 
 ## Kicad
+In the Kicad Folder you will find the completed Schematic and PCB design
 
